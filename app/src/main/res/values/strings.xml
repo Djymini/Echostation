@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Echostation</string>
+
+    <!-- Permission layout -->
+    <string name="permission_text_1">Bienvenue sur Echoo Station,\n\n Pour commencer nous avons besoin de votre autorisation</string>
+    <string name="permission_text_2">L\'autorisation d\'accès au stockage en lecture et écriture est nécessaire pour correctement lire et éditer les fichiers audio.</string>
+    <string name="authorize">Autoriser</string>
+    <string name="quit">Quitter</string>
+
+    <!-- Description -->
+    <string name="app_logo_description">Logo Echostation</string>
 </resources>
